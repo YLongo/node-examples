@@ -56,4 +56,6 @@ typings/
 
 # dotenv environment variables file
 .env
+chapter07/trivial_express/node_modules/
 
+chapter07/trivial_express/package-lock.json
